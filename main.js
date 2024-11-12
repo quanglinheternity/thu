@@ -5,15 +5,15 @@ const app={
     // gadagdjasdjasd
     //  hahdakdhahdashdkashdkahadsadasdadasdasdasd
     //adasdasdas
-
-
+// adsaasdasdads
+// adsad/
 
     renderDoiBong :async function (){
-        // console.log("đội");
+ 
         const data= await getAllClubs();
         const listTr=data?.map((item,index)=>{
             return `
-            <tr>
+            <tr> 
            
               <th scope="row">${index+1}</th>
               <td>${item.name}</td>
