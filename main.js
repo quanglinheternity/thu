@@ -1,12 +1,14 @@
 import {getAllClubs , deleteClubs, addClubs,getClubsById,updateid} from'./services.js';
 
 const app={
+    //  hahdakdhahdashdkashdkahsdkahsd
     renderDoiBong :async function (){
         // console.log("đội");
         const data= await getAllClubs();
         const listTr=data?.map((item,index)=>{
             return `
             <tr>
+           
               <th scope="row">${index+1}</th>
               <td>${item.name}</td>
               <td><img src="${item.logo}" alt="" width="60px"></td>
