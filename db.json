@@ -1,0 +1,22 @@
+{
+  "clubs": [
+    {
+      "name": "ManchesterUnited",
+      "logo": "https://i.pinimg.com/736x/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg",
+      "count": 222,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Arsenal",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/05/Arsenal-Logo.png",
+      "count": 5
+    },
+    {
+      "id": "00fa",
+      "name": "da",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/05/Arsenal-Logo.png",
+      "count": 131
+    }
+  ]
+}
