@@ -1,7 +1,8 @@
 import {getAllClubs , deleteClubs, addClubs,getClubsById,updateid} from'./services.js';
 
 const app={
-    //  hahdakdhahdashdkashdkahsdkahsd
+    //  hahdakdhahdashdkashdkahadsadasdadasdasdasd
+    //adasdasdas
     renderDoiBong :async function (){
         // console.log("đội");
         const data= await getAllClubs();
