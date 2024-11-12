@@ -5,12 +5,11 @@ const app={
     // gadagdjasdjasd
     //  hahdakdhahdashdkashdkahadsadasdadasdasdasd
     //adasdasdas
-
-// /adjkasdajdhasndakdakdk
+// adsaasdasdads
+// adsad/
 
     renderDoiBong :async function (){
-        // console.log("đội");
-        // adkadasdada
+ 
         const data= await getAllClubs();
         const listTr=data?.map((item,index)=>{
             return `
