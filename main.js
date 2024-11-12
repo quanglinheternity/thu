@@ -3,11 +3,11 @@ import {getAllClubs , deleteClubs, addClubs,getClubsById,updateid} from'./servic
 const app={
     //  hahdakdhahdashdkashdkahadsadasdadasdasdasd
     //adasdasdas
-
-
+// adsaasdasdads
+// adsad/
 
     renderDoiBong :async function (){
-        // console.log("đội");
+ 
         const data= await getAllClubs();
         const listTr=data?.map((item,index)=>{
             return `
