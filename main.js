@@ -3,6 +3,9 @@ import {getAllClubs , deleteClubs, addClubs,getClubsById,updateid} from'./servic
 const app={
     //  hahdakdhahdashdkashdkahadsadasdadasdasdasd
     //adasdasdas
+
+
+
     renderDoiBong :async function (){
         // console.log("đội");
         const data= await getAllClubs();
